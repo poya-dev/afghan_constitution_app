@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506972017968",
+    "project_id": "afghanistan-law",
+    "storage_bucket": "afghanistan-law.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506972017968:android:049f55d3dc028d2228e4f5",
+        "android_client_info": {
+          "package_name": "com.afghan_law_app.afghanistan_law_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506972017968-n84m7um28aj8b413g3obtbm4rtjdnnic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pn5oWVGJ4L0lOD-AdcZJPqbEZM79Cxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506972017968-n84m7um28aj8b413g3obtbm4rtjdnnic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
